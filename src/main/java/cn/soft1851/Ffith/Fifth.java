@@ -1,4 +1,4 @@
-package cn.soft1851.practice.wu;
+package cn.soft1851.Ffith;
 
 import java.io.BufferedReader;
 import java.io.FileReader;
